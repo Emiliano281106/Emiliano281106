@@ -1,7 +1,6 @@
 <!--![Intro](https://media.licdn.com/dms/image/v2/D4E22AQG-4AuEEwG0IA/feedshare-shrink_800/feedshare-shrink_800/0/1728303442346?e=1736380800&v=beta&t=aZc1WGUT8YS2p--3K5L09_3Ew-gnqfHrrIuy28spYJc) -->
-![Intro](https://i.pinimg.com/originals/ad/23/ec/ad23ec13db6ac097290039ca580c5769.gif)
+![Intro](https://i.pinimg.com/originals/fd/db/60/fddb602396802a3de27e2dc30fd75896.gif)
 ## Hi there 👋
-https://pin.it/6bvIzrQ9C
 
 ### ⚙️ GitHub Analytics
 
