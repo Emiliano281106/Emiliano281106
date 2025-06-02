@@ -2,7 +2,7 @@
 ![Intro](https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif)
 # Hi there, I'm Emiliano 👋
 
-🚀 **Aspiring Computer Scientist & Future Engineer**  
+## 🚀 **Aspiring Computer Scientist & Future Engineer**  
 Currently, I'm taking a web development course and preparing to start my Computer Science studies at university after the holidays. My journey as a developer has just begun, but I'm already passionate about building robust solutions and constantly improving my skills.
 
 ## 💡 About Me
